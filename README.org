@@ -1,0 +1,25 @@
+#+TITLE:  RefUse README
+#+AUTHOR: Mykhailo Shevchuk
+#+EMAIL:  mail+dev@mshevchuk.com
+#+OPTIONS: toc:nil
+
+#+html: <a href="https://www.gnu.org/software/emacs/"><img alt="GNU Emacs" src="https://img.shields.io/static/v1?logo=gnuemacs&logoColor=fafafa&label=Made%20for&message=GNU%20Emacs&color=7F5AB6&style=flat"/></a>
+#+html: <a href="https://www.gnu.org/licenses/gpl-3.0"><img alt="GPLv3" src="https://img.shields.io/badge/License-GPLv3-blue.svg"></a>
+#+html: <a href="https://github.com/myshevchuk/refuse/graphs/commit-activity"><img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+#+html: <a href="https://github.com/myshevchuk/refuse/releases/"><img alt="GitHub Release" src="https://img.shields.io/github/release/refuse/refuse.svg"></a>
+
+* RefUse: Retrieve references from PDF files and use them!
+
+This package was born from ORB PDF Scrapper, an add-on to [[https://github.com/org-roam/org-roam-bibtex][Org-roam-bibtex
+(ORB)]].  It still depends on ORB workflow and currently cannot be used as a
+standalone software.
+
+* Documentation
+
+User documentation can be found in [[./docs/refuse.org][the RefUse Manual]].
+
+* License
+
+Copyright © 2020-2022 Mykhailo Shevchuk
+
+Distributed under the GNU General Public License , see [[./LICENSE][LICENSE]].

@@ -1,5 +1,6 @@
 *.elc
 *.info
+*.html
 
 .DS_Store
 
